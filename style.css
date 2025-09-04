@@ -1,8 +1,18 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f8f8f8;
+}
+
+header h1 {
+    font-family: 'Story Script', cursive;
+    font-size: 36px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
 }
 
 header {
@@ -15,6 +25,7 @@ nav a {
     margin: 0 10px;
     text-decoration: none;
     color: darkblue;
+    font-family: 'Roboto', sans-serif;
 }
 
 section {
@@ -26,6 +37,7 @@ table {
     width: 100%;
     margin-top: 10px;
     border-collapse: collapse;
+    font-family: 'Open Sans', sans-serif;
 }
 
 th, td {
@@ -44,4 +56,5 @@ footer {
     text-align: center;
     padding: 15px;
     margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
 }
